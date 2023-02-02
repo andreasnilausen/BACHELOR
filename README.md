@@ -3,7 +3,7 @@ Repository containing scripts used in the analysis conducted.
 
 The following files have been uploaded:
 
-    - '''python data_acquisition.py'''
+    - ```python data_acquisition.py```
         - Python script containing functions for obtaining OddsPortal
           and Reddit data.
     
