@@ -1,5 +1,5 @@
 # Bachelor's Thesis
-Repository containing scripts used in the analysis conducted.
+Repository containing scripts used in the analysis.
 
 The following files have been uploaded:
 
